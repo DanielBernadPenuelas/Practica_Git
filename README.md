@@ -65,7 +65,7 @@ La idea es aprender, de forma práctica, a:
 
 ---
 
-## 🛠️ Chuleta del restaurador
+## Chuleta del restaurador
 
 ### Recuperar archivos borrados o modificados
 
