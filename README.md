@@ -1,4 +1,4 @@
-#  Repositorio de Prácticas: Rompe y Reconstruye
+#  Hijoputismo proyect
 
 > [!CAUTION]
 > **Este repositorio está hecho para ser destruido.**
