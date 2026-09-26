@@ -7,37 +7,6 @@
 > **Si quieres hacer algo de valor, hazlo en tu propia cuenta.** No guardes aquí código, apuntes ni trabajos que te importen.
 
 ---
-
-## ¿De qué va esto?
-
-Este repositorio es un campo de entrenamiento para practicar Git en situaciones reales de caos.
-
-El juego tiene dos bandos:
-
-| Rol | Quién | Objetivo |
-|-----|-------|----------|
-| **Atacantes** | Mis compañeros | Romper el repositorio de todas las formas creativas posibles |
-| **Restaurador** | Yo (propietario del repo) | Devolver el repositorio a un estado sano, recuperar lo destruido y proteger lo importante |
-
-La idea es aprender, de forma práctica, a:
-
-- Recuperar archivos, commits y ramas borradas.
-- Deshacer historiales reescritos y `force push`.
-- Resolver conflictos de merge.
-- Bloquear y desbloquear archivos (Git LFS file locking y protección de ramas).
-- Entender qué se puede recuperar y qué no.
-
----
-
-## Aviso importante
-
-- **Nada de lo que hay aquí es permanente.** Da por hecho que cualquier archivo puede desaparecer.
-- **No uses este repositorio como copia de seguridad** ni como sitio para tu trabajo real.
-- **Si quieres construir algo útil, crea un repositorio en tu cuenta** o haz un fork y trabaja allí.
-- El propietario no se responsabiliza de nada que se pierda en este repositorio. Ese es literalmente el objetivo.
-
----
-
 ## Reglas para los atacantes
 
 ###  Se permite (y se anima)
